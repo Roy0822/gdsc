@@ -1,0 +1,11 @@
+.mainButton {
+  color: white;
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  border-color: white;
+  border-style: solid;
+  background-color: black;
+  margin: 0 0 10rem 0;
+  cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  row-gap: 0.5rem;
+}
+
+.Button {
+  margin: 0 0 0 5rem;
+}
